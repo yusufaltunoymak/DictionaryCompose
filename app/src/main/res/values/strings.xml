@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DictionaryCompose</string>
+    <string name="can_t_get_result_text">Can\'t get result</string>
 </resources>
