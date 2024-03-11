@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">DictionaryCompose</string>
+    <string name="search_a_word_text">Search a word</string>
     <string name="can_t_get_result_text">Can\'t get result</string>
 </resources>
